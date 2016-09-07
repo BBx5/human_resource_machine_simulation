@@ -1,0 +1,9 @@
+This is a human resource machine simulation program.
+
+1. TODOs
+
++ Debug
++ Profiler
++ Virtualize
+
+
